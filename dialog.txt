@@ -1,0 +1,27 @@
+Bot: (neutral) How do you do.  Please tell me your problem.
+You: (joy) Hi!
+Bot: (sadness) I'm not sure I understand you fully.
+You: (anger) What don't you understand?
+Bot: (neutral) Why do you ask ?
+You: (anger) I ask becausae you are being an idiot.
+Bot: (neutral) Perhaps in your fantasies we ask becausae each other.
+You: (joy) haaha what?
+Bot: (neutral) Please go on.
+You: (anger) go on with what?
+Bot: (neutral) What does that suggest to you ?
+You: (neutral) nothing?
+Bot: (neutral) Do you feel strongly about discussing such things ?
+You: (neutral) not really.
+Bot: (sadness) I'm not sure I understand you fully.
+You: (joy) are you sad? haha
+Bot: (surprise) Why are you interested in whether I am sad? haha or not ?
+You: (neutral) you seem sad, which is weird, cuz you are just a bot.
+Bot: (anger) What makes you think I am just a bot ?
+You: (anger) what else can you be? you are a heartless creature, just 1's and 0's.
+Bot: (neutral) Does that question interest you ?
+You: (neutral) You didn't answer it. So it's not so interesting anymore.
+Bot: (neutral) We were discussing you -- not me.
+You: (anger) okay it's all about me now, right?
+Bot: (neutral) Please go on.
+You: (neutral) bye
+Bot: (neutral) Goodbye.  Thank you for talking to me.
