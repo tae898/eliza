@@ -1,4 +1,4 @@
-# Eliza chatbot in Python
+# Eliza chatbot in Python with Emotion Recognition
 
 This is mostly copied from [here](https://github.com/wadetb/eliza).
 
